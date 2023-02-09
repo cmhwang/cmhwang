@@ -20,7 +20,8 @@ My research interests include:
 This summer I will be interning for the **Phillipine Social Science Council** as a part of the **Freeman Fellowship Program** in Quezon City. I'll be doing front-end and back-end programming to help manage their databases and develop their website.
 
 ## Latest Project
-This is a design mockup I developed for a tool that can detect deepfakes and traditional digital manipulation. This project is a part of Disinfolab, an on-campus research lab I'm a part of. 
+This is a design mockup I developed for a tool for the student research lab, Disinfolab, that can detect deepfakes and traditional digital manipulation. 
+
 [![image](https://img.shields.io/badge/deepfake-blue?style=for-the-badge)](https://www.figma.com/file/gP77TqXnFmsV8bSFLDbILP/DisinfoLab-Deepfakes?node-id=0%3A1&t=7otGad3YutgUHI33-1)
 
 ## Socials
