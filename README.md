@@ -43,6 +43,7 @@ This is a design mockup I developed for a tool for the student research lab, Dis
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![image](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
+![image](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white)
 
 ##### Libraries
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -50,6 +51,19 @@ This is a design mockup I developed for a tool for the student research lab, Dis
 
 ##### Databases
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+## Extracurriculars
+
+##### Research and Consulting
+[![image](https://img.shields.io/badge/AidData-yellow?style=for-the-badge)](https://www.aiddata.org/geoquery)
+[![image](https://img.shields.io/badge/DisinfoLab-informational?style=for-the-badge)](https://www.disinfolab.net/)
+[![image](https://img.shields.io/badge/Google_Student_Developer_Club-success?style=for-the-badge)](https://gdsc.community.dev/william-mary/)
+
+##### Recreational
+[![image](https://img.shields.io/badge/AASI-red?style=for-the-badge)](https://tribelink.wm.edu/organization/aasi)
+[![image](https://img.shields.io/badge/APO-yellow?style=for-the-badge)](https://www.aponurho.org/what-we-do)
+[![image](https://img.shields.io/badge/Rocket_Magazine-ff69b4?style=for-the-badge)](https://wmrocketmagazine.com/)
+[![image](https://img.shields.io/badge/W&M_Dance_Team-brightgreen?style=for-the-badge)](https://linktr.ee/wmtribedanceteam)
 
 
 
