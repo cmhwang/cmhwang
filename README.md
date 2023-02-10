@@ -22,7 +22,7 @@ This summer I will be interning for the **Phillipine Social Science Council** as
 ## Latest Project
 This is a design mockup I developed for a tool for the student research lab, Disinfolab, that can detect deepfakes and traditional digital manipulation. 
 
-[![image](https://img.shields.io/badge/deepfake-blue?style=for-the-badge)](https://www.figma.com/file/gP77TqXnFmsV8bSFLDbILP/DisinfoLab-Deepfakes?node-id=0%3A1&t=7otGad3YutgUHI33-1)
+[![image](https://img.shields.io/badge/deepfake_detection_mockup-blue?style=for-the-badge)](https://www.figma.com/file/gP77TqXnFmsV8bSFLDbILP/DisinfoLab-Deepfakes?node-id=0%3A1&t=7otGad3YutgUHI33-1)
 
 ## Socials
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmhwang-a489401b7/)
