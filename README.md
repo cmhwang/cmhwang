@@ -65,6 +65,7 @@ This is an app I helped design and development with other team members for **W&M
 [![image](https://img.shields.io/badge/Rocket_Magazine-ff69b4?style=for-the-badge)](https://wmrocketmagazine.com/)
 [![image](https://img.shields.io/badge/W&M_Dance_Team-brightgreen?style=for-the-badge)](https://linktr.ee/wmtribedanceteam)
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmhwang&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=3D-SHARKS)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
