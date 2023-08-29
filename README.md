@@ -60,6 +60,7 @@ This is an app I helped design and development with other team members for **W&M
 
 ##### Databases
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ## Extracurriculars
 
