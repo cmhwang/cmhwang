@@ -17,7 +17,7 @@ My research interests include:
 - ethics within the field of AI
 - immgration/globalization
 
-This summer I will be interning for the **Phillipine Social Science Council** as a part of the **Freeman Fellowship Program** in Quezon City. I'll be doing front-end and back-end programming to help manage their databases and develop their website.
+This past summer I interned for the **Phillipine Social Science Council** as a part of the **Freeman Fellowship Program** in Quezon City. I worked on developing the front-end of their data portal website and creating data visualizations for their most popular datasets.
 
 ## Latest Project
 This is an app I helped design and development with other team members for **W&M GDSC**. In addition to backend debugging, we refactored the app to have a dark theme and a cleaner user experience. 
@@ -73,7 +73,6 @@ This is an app I helped design and development with other team members for **W&M
 ##### Recreational
 [![image](https://img.shields.io/badge/AASI-red?style=for-the-badge)](https://tribelink.wm.edu/organization/aasi)
 [![image](https://img.shields.io/badge/APO-yellow?style=for-the-badge)](https://www.aponurho.org/what-we-do)
-[![image](https://img.shields.io/badge/Rocket_Magazine-ff69b4?style=for-the-badge)](https://wmrocketmagazine.com/)
 [![image](https://img.shields.io/badge/W&M_Dance_Team-brightgreen?style=for-the-badge)](https://linktr.ee/wmtribedanceteam)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cmhwang&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=3D-SHARKS)](https://github.com/anuraghazra/github-readme-stats)
