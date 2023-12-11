@@ -17,7 +17,7 @@ My research interests include:
 - ethics within the field of AI
 - immgration/globalization
 
-This past summer I interned for the **Phillipine Social Science Council** as a part of the **Freeman Fellowship Program** in Quezon City. I worked on developing the front-end of their data portal website and creating data visualizations for their most popular datasets.
+For this summer, I will be interning for **Capital One** in Mclean, VA as a part of the Technology Internship program. This past summer I interned for the **Phillipine Social Science Council** as a part of the **Freeman Fellowship Program** in Quezon City. I worked on developing the front-end of their data portal website and creating data visualizations for their most popular datasets.
 
 ## Latest Project
 This is an app I helped design and development with other team members for **W&M GDSC**. In addition to backend debugging, we refactored the app to have a dark theme and a cleaner user experience. 
