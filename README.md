@@ -4,20 +4,14 @@
 
 # Hi I'm Cheyenne 👋 
 
-I'm a **CS and Sociology** double major at the **College of William & Mary**. Some of my favorite courses I've taken in college include Software Development, Finite Automata, Data Structures, Gender and Global Human Rights, and Sociological Theory.
+I'm a **CS and Sociology** double major at the **College of William & Mary**. Some of my favorite courses I've taken in college include Software Development, Database Systems, Data Mining, and Finite Automata.
 
 My technical interests include:
-- Software Development
+- Software Development (especially front-end and full-stack) 
 - Mobile App Development
-- UI/UX design
-- Machine Learning
+- Database administration
 
-My research interests include:
-- human relationships with technology
-- ethics within the field of AI
-- immgration/globalization
-
-For this summer, I will be interning for **Capital One** in Mclean, VA as a part of the Technology Internship program. This past summer I interned for the **Phillipine Social Science Council** as a part of the **Freeman Fellowship Program** in Quezon City. I worked on developing the front-end of their data portal website and creating data visualizations for their most popular datasets.
+Starting in August, I will be working full-time as a software engineer for **Capital One** in San Francisco, CA as part of their Technology Development program. This past summer I interned at Capital One's office in Mclean, VA office as a part of their Technology Internship Program. With a team of other interns I hlped develop a UI to provide testing data insights to 12,000+ Capital One developers. For this project I implemented frontend web components, backend components such as APIs, and wrote unit tests to support the UI. I also collaborated with full-time frontend engineers, backend engineers, UI/UX designers, and product managers.
 
 ## Latest Project
 This is an app I helped design and development with other team members for **W&M GDSC**. In addition to backend debugging, we refactored the app to have a dark theme and a cleaner user experience. 
