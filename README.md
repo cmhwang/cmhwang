@@ -4,7 +4,7 @@
 
 # Hi I'm Cheyenne 👋 
 
-I'm a **CS and Sociology** double major at the **College of William & Mary**. Some of my favorite courses I've taken in college include Software Development, Database Systems, Data Mining, and Finite Automata.
+I'm a graduate of **College of William & Mary** with a Bachelor's of Science in Computer Science as well as a Bachelor of Arts in Sociology. Some of my favorite courses I've taken in college include Software Development, Database Systems, Data Mining, and Finite Automata.
 
 My technical interests include:
 - Software Development (especially front-end and full-stack) 
