@@ -11,12 +11,22 @@ My technical interests include:
 - Mobile App Development
 - Database administration
 
-Starting in August, I will be working full-time as a software engineer for **Capital One** in San Francisco, CA as part of their Technology Development program. This past summer I interned at Capital One's office in Mclean, VA office as a part of their Technology Internship Program. With a team of other interns I hlped develop a UI to provide testing data insights to 12,000+ Capital One developers. For this project I implemented frontend web components, backend components such as APIs, and wrote unit tests to support the UI. I also collaborated with full-time frontend engineers, backend engineers, UI/UX designers, and product managers.
+I am currently working full-time as a software engineer for **Capital One** in San Francisco, CA as part of their Technology Development program. In the summer of 2024, I interned at Capital One's office in Mclean, VA office as a part of their Technology Internship Program. With a team of other interns I helped develop a UI to provide testing data insights to 12,000+ Capital One developers. For this project I implemented frontend web components, backend components such as APIs, and wrote unit tests to support the UI. I also collaborated with full-time frontend engineers, backend engineers, UI/UX designers, and product managers.
 
 ## Latest Project
 This is an app I helped design and development with other team members for **W&M GDSC**. In addition to backend debugging, we refactored the app to have a dark theme and a cleaner user experience. 
 
 [![image](https://img.shields.io/badge/APO_Campus_Escort_App-blue?style=for-the-badge)](https://apps.apple.com/gr/app/w-m-campus-escort/id1582947297)
+<details>
+
+<summary>
+Other Projects
+</summary>
+
+### UI Design Project
+For my CSCI 420: Intro to HCI course I designed a Figma prototype for a note-taking app. I used the rough storyboard sketches our team developed to create this [Figma Prototype](https://www.figma.com/proto/bM7aUPCmALO8113S9VdZeM/Mid-Sem-Presentation-Prototype?node-id=78-97&t=i5Ei117QKg1kbrQs-1). More detail about this project is contained in [final project paper](https://github.com/user-attachments/files/21997277/5_journAIl_final_project_paper.pdf)  and in this
+[walkthrough demo video](https://drive.google.com/file/d/1MrE3PaJzkWJhonG1ZsD445YAn_DJU4x8/view?usp=drive_link) 
+</details>
 
 ## Socials
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmhwang-a489401b7/)
